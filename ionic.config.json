@@ -1,0 +1,7 @@
+{
+  "name": "ipv4-calc-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
